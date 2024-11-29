@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_gray">#666666</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="green">#21C328</color>
+
+
+    <color name="button_color">#42A5F5</color> <!-- Bleu clair -->
+    <color name="link_color">#FF5722</color> <!-- Orange vif -->
+    <color name="background_gradient_start">#E3F2FD</color> <!-- Dégradé : début -->
+    <color name="background_gradient_end">#90CAF9</color> <!-- Dégradé : fin -->
+</resources>
